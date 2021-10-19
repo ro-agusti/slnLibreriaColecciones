@@ -1,0 +1,15 @@
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\13-estatica-colecciones\slnLibreriaColecciones\WindowsList\bin\Debug\WindowsList.exe.config
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\13-estatica-colecciones\slnLibreriaColecciones\WindowsList\bin\Debug\WindowsList.exe
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\13-estatica-colecciones\slnLibreriaColecciones\WindowsList\bin\Debug\WindowsList.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\13-estatica-colecciones\slnLibreriaColecciones\WindowsList\bin\Debug\Entidades.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\13-estatica-colecciones\slnLibreriaColecciones\WindowsList\bin\Debug\Entidades.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\13-estatica-colecciones\slnLibreriaColecciones\WindowsList\obj\Debug\WindowsList.csproj.AssemblyReference.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\13-estatica-colecciones\slnLibreriaColecciones\WindowsList\obj\Debug\WindowsList.Form1.resources
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\13-estatica-colecciones\slnLibreriaColecciones\WindowsList\obj\Debug\WindowsList.Properties.Resources.resources
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\13-estatica-colecciones\slnLibreriaColecciones\WindowsList\obj\Debug\WindowsList.csproj.GenerateResource.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\13-estatica-colecciones\slnLibreriaColecciones\WindowsList\obj\Debug\WindowsList.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\13-estatica-colecciones\slnLibreriaColecciones\WindowsList\obj\Debug\WindowsList.csproj.CopyComplete
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\13-estatica-colecciones\slnLibreriaColecciones\WindowsList\obj\Debug\WindowsList.exe
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\13-estatica-colecciones\slnLibreriaColecciones\WindowsList\obj\Debug\WindowsList.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\13-estatica-colecciones\slnLibreriaColecciones\WindowsList\obj\Debug\WindowsList.frmEmpleado.resources
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\13-estatica-colecciones\slnLibreriaColecciones\WindowsList\obj\Debug\WindowsList.frmPublicador.resources
