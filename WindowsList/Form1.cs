@@ -25,22 +25,25 @@ namespace WindowsList
         private void Form1_Load(object sender, EventArgs e)
         {
             autores.Add(new Autor(1, "Gomez", "Pedro", Convert.ToDateTime("30/12/1990"), "Mendoza", "Argentina"));
+            autores.Add(new Autor(2, "Mauri", "Juana", Convert.ToDateTime("30/11/1997"), "Mendoza", "Argentina"));
             actualizarGrid();
         }
 
         private void selecionarPorCiudad()
         {
+            List<Autor> ciudadesSelec = new List<Autor>();
             foreach (var item in autores)
             {
             string ciudadSelec = txtCiudadSeleccionada.Text;
                 if (item.Ciudad == ciudadSelec)
                 {   
-                    List<Autor>ciudadesSelec = new List<Autor>();
+                    
                     ciudadesSelec.Add(new Autor(item.ID, item.Apellido, item.Nombre, item.FechaNacimiento, item.Ciudad, item.Nacionalidad));
-                    gridListaAutores.DataSource = null;
-                    gridListaAutores.DataSource = ciudadesSelec;
+                    
                 }
             }
+            gridListaAutores.DataSource = null;
+            gridListaAutores.DataSource = ciudadesSelec;
         }
 
 
